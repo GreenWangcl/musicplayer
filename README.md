@@ -1,1 +1,1 @@
-This is a private study project.
+This is a private Android study project.
